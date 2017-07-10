@@ -1,1 +1,2 @@
 # palettePyQt
+desing pyqt
